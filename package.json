@@ -1,6 +1,6 @@
 {
   "name": "generator-html-email",
-  "version": "0.1",
+  "version": "0.1.2",
   "description": "A Yeoman generator to bootstrap responsive emails, using the Ink CSS Framework.",
   "license": "MIT",
   "main": "app/index.js",
